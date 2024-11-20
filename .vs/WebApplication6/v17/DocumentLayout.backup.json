@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|d:\\webapplication6\\webapplication6\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|d:\\webapplication6\\webapplication6\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|d:\\webapplication6\\webapplication6\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|d:\\webapplication6\\webapplication6\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|d:\\webapplication6\\webapplication6\\views\\rolesadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\rolesadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\rolesadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\rolesadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\rolesadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\rolesadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\rolesadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\rolesadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\rolesadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\rolesadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\models\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\controllers\\rolesadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\rolesadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\usersadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\usersadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\usersadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\usersadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\usersadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\usersadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\usersadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\usersadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\views\\usersadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\usersadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|D:\\WebApplication6\\webapplication6\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D447D0-2C75-4084-A8B1-20507DC3A96E}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T08:21:44.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T08:21:07.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T08:20:17.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T08:13:52.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\UsersAdmin\\Delete.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\UsersAdmin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T05:03:51.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\UsersAdmin\\Create.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Create.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\UsersAdmin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T05:03:36.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\UsersAdmin\\Edit.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\UsersAdmin\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T05:03:22.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\UsersAdmin\\Details.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Details.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\UsersAdmin\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T05:03:04.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\UsersAdmin\\Index.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\UsersAdmin\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\UsersAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T05:02:49.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\RolesAdmin\\Create.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Create.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\RolesAdmin\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T02:24:34.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T03:39:55.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:38:32.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\RolesAdmin\\Edit.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\RolesAdmin\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T03:05:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\RolesAdmin\\Delete.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\RolesAdmin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T02:49:30.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Content\\Site.css",
+              "RelativeDocumentMoniker": "WebApplication6\\Content\\Site.css",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Content\\Site.css",
+              "RelativeToolTip": "WebApplication6\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-20T02:44:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T02:41:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\RolesAdmin\\Details.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Details.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\RolesAdmin\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T02:20:25.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RolesAdminController.cs",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Controllers\\RolesAdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\RolesAdminController.cs",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Controllers\\RolesAdminController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\RolesAdminController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv2wAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:20:17.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\RolesAdmin\\Index.cshtml",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Views\\RolesAdmin\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\RolesAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:24:57.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Models\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\AdminViewModel.cs",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Models\\AdminViewModel.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\AdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:19:19.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\IdentityModels.cs",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\IdentityModels.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:13:32.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "WebApplication6\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:12:06.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "D:\\WebApplication6\\WebApplication6\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "D:\\WebApplication6\\WebApplication6\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "WebApplication6\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:11:37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
